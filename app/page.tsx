@@ -56,7 +56,7 @@ export default function MiniApp() {
       <div className="max-w-md mx-auto bg-white min-h-screen">
         {/* Header */}
         <div className="bg-blue-500 text-white p-4">
-          <h1 className="text-xl font-bold">Job Alert Bot</h1>
+          <h1 className="text-xl font-bold">Yene Sira</h1>
           {user && <p className="text-blue-100 text-sm">Welcome, {user.first_name}! 👋</p>}
         </div>
 
